@@ -94,6 +94,7 @@ GameObject:
   - component: {fileID: 8574643753641182769}
   - component: {fileID: 1139871617230142683}
   - component: {fileID: 6842727447410682426}
+  - component: {fileID: 120707202568419965}
   m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -182,7 +183,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: -99, -99
+  m_text: ..
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -254,6 +255,18 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_renderer: {fileID: 1139871617230142683}
   m_maskType: 0
+--- !u!114 &120707202568419965
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5918818515476791244}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7810b8816a4c04488ed42586bfbf5a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &8143403382096673638
 GameObject:
   m_ObjectHideFlags: 0
